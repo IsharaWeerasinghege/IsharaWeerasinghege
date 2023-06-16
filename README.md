@@ -8,7 +8,7 @@
 🥅 Goals for 2023: Continuous learning, building, and sharing.<br>
 
 ### Connect with me:
-<p class="social-icons">
+<p class="social-icons" style="display:flex, gap:2rem;">
     <a href="https://www.linkedin.com/in/suranga-ishara/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
              alt="LinkedIn" height="30" width="30">
