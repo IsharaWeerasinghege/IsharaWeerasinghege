@@ -1,37 +1,4 @@
-<html>
-<head>
-    <title>Ishara Weerasinghege - Full Stack Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f7f7f7;
-            color: #333;
-            padding: 20px;
-        }
 
-        h1 {
-            color: #007bff;
-        }
-
-        h3 {
-            color: #555;
-            margin-bottom: 10px;
-        }
-
-        a {
-            text-decoration: none;
-        }
-
-        .social-icons a {
-            margin-right: 10px;
-        }
-
-        .languages-tools img {
-            margin-right: 10px;
-        }
-    </style>
-</head>
-<body>
 <h1>Hi there, I'm Ishara Weerasinghege</h1>
 <h3>Full Stack Developer | React | Next.js | Node.js | Express | MongoDB</h3>
 
@@ -186,5 +153,4 @@
     </a>
 
 </p>
-</body>
-</html>
+
