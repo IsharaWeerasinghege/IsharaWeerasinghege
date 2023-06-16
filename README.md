@@ -1,11 +1,11 @@
 # Hi there, I'm Ishara Weerasinghege
-
+<hr>
 ### Full Stack Developer | React | Next.js | Node.js | Express | MongoDB
-
-🔭 Passionate about creating solutions.
-🌱 Experienced in React.js, Next.js, Express.js, and MongoDB.
-👯 Open to collaboration.
-🥅 Goals for 2023: Continuous learning, building, and sharing.
+<hr>
+🔭 Passionate about creating solutions.<br>
+🌱 Experienced in React.js, Next.js, Express.js, and MongoDB.<br>
+👯 Open to collaboration.<br>
+🥅 Goals for 2023: Continuous learning, building, and sharing.<br>
 
 ### Connect with me:
 <p class="social-icons">
