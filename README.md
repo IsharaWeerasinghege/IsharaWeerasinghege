@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Ishara Weerasinghege 
 
+I'm a Developer !!
+🔭 Addicted to Making Solutions.
+🌱 ReactJs, NextJs, ExpressJs, MongoDB
+👯 I’m looking to collaborate.
+🥅 2023 Goals: Learn, Build and Share.
 
-**IsharaWeerasinghege/IsharaWeerasinghege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠  Tech Stack
+Technologies that I've been learning and I've picked up along with my programming journey.
 
-Here are some ideas to get you started:
+Languages
+JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌐 Frontend
+React NextJs  JavaScript  HTML  CSS  Material UI  Tailwind CSS  Bootstrap
 
+✨ Backend
+Node.js  Expressjs  SQL  MongoDB 
+
+🛠 OS & IDE & Tools
+Git  GitHub  WebStorm 
